@@ -1,0 +1,6 @@
+org\brijframework\json\schema\factories\JsonSchemaDataFactory.class
+org\brijframework\json\schema\factories\JsonSchemaMetaFactory.class
+org\brijframework\json\schema\files\JsonSchemaFile.class
+org\brijframework\json\schema\files\JsonSchemaPpt.class
+org\brijframework\json\schema\util\ReflectionUtils.class
+org\brijframework\json\schema\files\JsonSchemaObject.class
